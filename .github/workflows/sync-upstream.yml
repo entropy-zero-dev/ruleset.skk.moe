@@ -19,7 +19,7 @@ jobs:
 
       - name: Add upstream
         run: |
-          git remote add upstream https://github.com/SukkaW/Surge.git || true
+          git remote add upstream https://github.com/SukkaLab/ruleset.skk.moe.git || true
 
       - name: Fetch upstream
         run: git fetch upstream
