@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2025-12-27T05:18:49.502Z
-# Size: 77775
+# Last Updated: 2025-12-27T11:54:19.706Z
+# Size: 77772
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6534,7 +6534,6 @@
 +.ymjwzofxrfjwc.space
 +.ymjwxocpguvgo.space
 +.ymjpyeapkcoae.space
-+.ymixhrbjlqyxt.space
 +.ylogepubxynzu.space
 +.yliawdutzwwsd.space
 +.ykzzjyyshqniz.space
@@ -39978,7 +39977,6 @@ otn.samsungcloudcdn.com
 +.quatang-shopee.com
 +.quanlyphongnet.com
 +.qqcpydsitolmye.com
-+.qffrowqjsfwjgh.com
 +.1.www.putridgadzooks.com
 +.putproudlyhowl.com
 +.puteldestebook.com
@@ -65905,7 +65903,6 @@ m.jr.mi.com
 +.vicoitegustoso.cfd
 +.vianderfopship.cfd
 +.verandasandbag.cfd
-+.vaspoduridrype.cfd
 +.valgoiddharmic.cfd
 +.v5putvuez69uth.cfd
 +.uy9t65npflytgp.cfd

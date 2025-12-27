@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-12-27T05:18:53.167Z
+// # Build 2025-12-27T11:54:22.304Z
 
 declare(strict_types=1);
 
@@ -2330,9 +2330,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,y2mate.com,Global',
         'DOMAIN-SUFFIX,xbooru.com,Global',
         'DOMAIN-SUFFIX,weebly.com,Global',
-        'DOMAIN,sgminorshort.wechat.com,Global',
-        'DOMAIN,sgshort.wechat.com,Global',
-        'DOMAIN,sglong.wechat.com,Global',
         'DOMAIN-SUFFIX,vrporn.com,Global',
         'DOMAIN-SUFFIX,vmware.com,Global',
         'DOMAIN-SUFFIX,vikacg.com,Global',
@@ -4317,6 +4314,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.227.80.0/22,Domestic',
         'IP-CIDR,103.227.120.0/22,Domestic',
         'IP-CIDR,103.227.136.0/22,Domestic',
+        'IP-CIDR,103.227.228.0/22,Domestic',
         'IP-CIDR,103.228.12.0/22,Domestic',
         'IP-CIDR,103.228.136.0/22,Domestic',
         'IP-CIDR,103.228.160.0/22,Domestic',
