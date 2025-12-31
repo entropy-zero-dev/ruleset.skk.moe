@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2025-12-31T05:22:25.339Z
-# Size: 78532
+# Last Updated: 2025-12-31T17:55:18.592Z
+# Size: 78529
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4463,7 +4463,6 @@
 +.bpgwsiqunmadx.online
 +.bpeovknslhuqy.online
 +.bovscuwjuupvr.online
-+.bopnlaqlcazhi.online
 +.bolealwqnljys.online
 +.bnynihjbciywe.online
 +.bnsirwpidbpao.online
@@ -15973,7 +15972,6 @@
 +.hhy7wclphfgjf82n8zc8kz4.cyou
 +.cutitiscnemialpropago.cyou
 +.23hxl5rkz4r87pymvlkf5.cyou
-+.wastineediblesunsere.cyou
 +.pretanlancetseventh.cyou
 +.farseercrumbedlochs.cyou
 +.birliebouclewetbird.cyou
@@ -19796,6 +19794,7 @@
 +.coolmine.top
 +.lotte.cm66llks.top
 +.cloudpsh.top
++.clickngo.top
 +.bettesxt.top
 +.ahatm8od.top
 +.9utwbj08.top
@@ -39792,7 +39791,6 @@ otn.samsungcloudcdn.com
 +.appinstallcheck.com
 +.appeasehermione.com
 +.app-utility-hub.com
-+.apchfkkjrijhwbb.com
 +.anysoftdownload.com
 +.anyinadeditiont.com
 +.anxiousairliner.com
@@ -44888,7 +44886,6 @@ otn.samsungcloudcdn.com
 +.tinhothomnay.com
 +.tingiovangvn.com
 +.tingiaitrian.com
-+.tilesunbulky.com
 +.tiktikshopvn.com
 +.tikiratingvn.com
 +.tiennhanh247.com
@@ -46588,7 +46585,6 @@ otn.samsungcloudcdn.com
 +.deducecrater.com
 +.decisionmark.com
 +.decideparcel.com
-+.deafnitrogen.com
 +.ddd-telegram.com
 +.dcjhagebgi10.com
 +.dazzleembryo.com
@@ -60104,7 +60100,6 @@ lockersamsungs8.r.xoxknct.com
 +.tpbankn.com
 +.tpbankc.com
 +.home.townisp.com
-+.zhanzhang.toutiao.com
 +.go.toutapp.com
 +.tour375.com
 +.tosfeed.com
@@ -75584,6 +75579,7 @@ ns11.whois.co.kr
 +.theminerzcoin.eu
 +.page-redirect.eu
 +.p2p-multipool.eu
++.lowest-prices.eu
 +.deviceprotect.eu
 +.cryptohosting.eu
 +.affiliateport.eu
@@ -75591,6 +75587,7 @@ ns11.whois.co.kr
 +.usercentrics.eu
 +.l.touteleurope.eu
 +.call.thebutterfly.eu
++.page-checker.eu
 +.tags.ipp-services.eu
 +.cryptoescrow.eu
 +.cashpartners.eu
